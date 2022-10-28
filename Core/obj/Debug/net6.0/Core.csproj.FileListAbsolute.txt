@@ -17,7 +17,6 @@
 /Users/jozehangrobler/Projects/Personal/TR/Core/bin/Debug/net6.0/Core.deps.json
 /Users/jozehangrobler/Projects/Personal/TR/Core/bin/Debug/net6.0/Core.runtimeconfig.json
 /Users/jozehangrobler/Projects/Personal/TR/Core/bin/Debug/net6.0/Core.dll
-/Users/jozehangrobler/Projects/Personal/TR/Core/bin/Debug/net6.0/ref/Core.dll
 /Users/jozehangrobler/Projects/Personal/TR/Core/bin/Debug/net6.0/Core.pdb
 /Users/jozehangrobler/Projects/Personal/TR/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
 /Users/jozehangrobler/Projects/Personal/TR/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
@@ -28,3 +27,4 @@
 /Users/jozehangrobler/Projects/Personal/TR/Core/obj/Debug/net6.0/ref/Core.dll
 /Users/jozehangrobler/Projects/Personal/TR/Core/obj/Debug/net6.0/Core.pdb
 /Users/jozehangrobler/Projects/Personal/TR/Core/obj/Debug/net6.0/Core.genruntimeconfig.cache
+/Users/jozehangrobler/Projects/Personal/TR/Core/obj/Debug/net6.0/refint/Core.dll

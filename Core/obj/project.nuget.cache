@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "noZwVINV3EG8wjCF1emdhq53b5EEkXPJqwXEqimK+j0tqp2IfUJ9ywfKilVdfwuDNoeZlR2cErnTbdjddcXtLg==",
+  "dgSpecHash": "6XywvIjhTWFA02qcZWj8ptemsVEzihhXGIcuNZPYa4cG7a5pnHz6uRcWFz+gDNu0xmmHuovcHBezUUQaO5nMww==",
   "success": true,
   "projectFilePath": "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jozehangrobler/.nuget/packages/microsoft.netcore.app.ref/6.0.9/microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512",
+    "/Users/jozehangrobler/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.9/microsoft.netcore.app.host.osx-x64.6.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
