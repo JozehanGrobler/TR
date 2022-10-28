@@ -1,0 +1,15 @@
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/bin/Debug/net6.0/TR
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/bin/Debug/net6.0/TR.deps.json
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/bin/Debug/net6.0/TR.runtimeconfig.json
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/bin/Debug/net6.0/TR.dll
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/bin/Debug/net6.0/ref/TR.dll
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/bin/Debug/net6.0/TR.pdb
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.csproj.AssemblyReference.cache
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.AssemblyInfoInputs.cache
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.AssemblyInfo.cs
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.csproj.CoreCompileInputs.cache
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.dll
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/ref/TR.dll
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.pdb
+/Users/jozehangrobler/Projects/Personal/TR/TR/TR/obj/Debug/net6.0/TR.genruntimeconfig.cache

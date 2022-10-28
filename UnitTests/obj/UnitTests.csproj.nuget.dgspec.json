@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jozehangrobler/Projects/Personal/TR/UnitTests/UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj",
+        "packagesPath": "/Users/jozehangrobler/.nuget/packages/",
+        "outputPath": "/Users/jozehangrobler/Projects/Personal/TR/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jozehangrobler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/jozehangrobler/.nuget/NuGet/ILOPS.SAPProxy.Client": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.com/api/v4/groups/2721445/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jozehangrobler/.dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jozehangrobler/Projects/Personal/TR/UnitTests/UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jozehangrobler/Projects/Personal/TR/UnitTests/UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "/Users/jozehangrobler/Projects/Personal/TR/UnitTests/UnitTests.csproj",
+        "packagesPath": "/Users/jozehangrobler/.nuget/packages/",
+        "outputPath": "/Users/jozehangrobler/Projects/Personal/TR/UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jozehangrobler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/jozehangrobler/.nuget/NuGet/ILOPS.SAPProxy.Client": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.com/api/v4/groups/2721445/-/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj": {
+                "projectPath": "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jozehangrobler/.dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

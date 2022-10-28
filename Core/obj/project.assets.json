@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/jozehangrobler/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj",
+      "projectName": "Core",
+      "projectPath": "/Users/jozehangrobler/Projects/Personal/TR/Core/Core.csproj",
+      "packagesPath": "/Users/jozehangrobler/.nuget/packages/",
+      "outputPath": "/Users/jozehangrobler/Projects/Personal/TR/Core/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jozehangrobler/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/Users/jozehangrobler/.nuget/NuGet/ILOPS.SAPProxy.Client": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gitlab.com/api/v4/groups/2721445/-/packages/nuget/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/jozehangrobler/.dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
